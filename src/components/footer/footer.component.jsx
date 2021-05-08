@@ -4,7 +4,7 @@ import "./footer.style.css";
 const FooterPanel = () => {
   return (
     <div>
-      <div className="py-2 text-center footer-style">© SANDESH KUMAR K S {new Date().getFullYear()}</div>
+      <div className="py-2 text-center footer-style">© SANDESH SANDY {new Date().getFullYear()}</div>
     </div>
   );
 };
