@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/gh-page/static/css/main.10464d77.chunk.css",
+    "main.js": "/gh-page/static/js/main.040098fd.chunk.js",
+    "main.js.map": "/gh-page/static/js/main.040098fd.chunk.js.map",
+    "runtime-main.js": "/gh-page/static/js/runtime-main.e70a94c6.js",
+    "runtime-main.js.map": "/gh-page/static/js/runtime-main.e70a94c6.js.map",
+    "static/js/2.6e204833.chunk.js": "/gh-page/static/js/2.6e204833.chunk.js",
+    "static/js/2.6e204833.chunk.js.map": "/gh-page/static/js/2.6e204833.chunk.js.map",
+    "index.html": "/gh-page/index.html",
+    "precache-manifest.a0da84bc3b3025974013083479204f59.js": "/gh-page/precache-manifest.a0da84bc3b3025974013083479204f59.js",
+    "service-worker.js": "/gh-page/service-worker.js",
+    "static/css/main.10464d77.chunk.css.map": "/gh-page/static/css/main.10464d77.chunk.css.map",
+    "static/js/2.6e204833.chunk.js.LICENSE.txt": "/gh-page/static/js/2.6e204833.chunk.js.LICENSE.txt",
+    "static/media/React_ToDo_List.webp": "/gh-page/static/media/React_ToDo_List.8897aeb6.webp",
+    "static/media/background.webp": "/gh-page/static/media/background.bf989778.webp",
+    "static/media/contact-form.styles.css": "/gh-page/static/media/background.e95d0563.webp",
+    "static/media/bootstrap-4.svg": "/gh-page/static/media/bootstrap-4.ffded238.svg",
+    "static/media/css3.svg": "/gh-page/static/media/css3.3707da3c.svg",
+    "static/media/express.svg": "/gh-page/static/media/express.c6bab64b.svg",
+    "static/media/flask.svg": "/gh-page/static/media/flask.d98463ab.svg",
+    "static/media/git-icon.svg": "/gh-page/static/media/git-icon.1190a19c.svg",
+    "static/media/github.svg": "/gh-page/static/media/github.0ff1a6f0.svg",
+    "static/media/heroku.svg": "/gh-page/static/media/heroku.b38ff61a.svg",
+    "static/media/html-5.svg": "/gh-page/static/media/html-5.676e8188.svg",
+    "static/media/javascript.svg": "/gh-page/static/media/javascript.2d2e31cc.svg",
+    "static/media/material-ui-1.svg": "/gh-page/static/media/material-ui-1.82291019.svg",
+    "static/media/mongodb.svg": "/gh-page/static/media/mongodb.2985235d.svg",
+    "static/media/nodejs.svg": "/gh-page/static/media/nodejs.a1231528.svg",
+    "static/media/python.svg": "/gh-page/static/media/python.146716bd.svg",
+    "static/media/react-bootstrap.svg": "/gh-page/static/media/react-bootstrap.83fe61b0.svg",
+    "static/media/react-router.svg": "/gh-page/static/media/react-router.02419671.svg",
+    "static/media/react.svg": "/gh-page/static/media/react.4009eef3.svg",
+    "static/media/redux.svg": "/gh-page/static/media/redux.aa0a3376.svg",
+    "static/media/typescript.svg": "/gh-page/static/media/typescript.3de182d2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70a94c6.js",
+    "static/js/2.6e204833.chunk.js",
+    "static/css/main.10464d77.chunk.css",
+    "static/js/main.040098fd.chunk.js"
+  ]
+}
