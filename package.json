@@ -1,6 +1,5 @@
 {
   "name": "portfolio",
-  "homepage": "https://Sandesh-Sandy.github.io/gh-page",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -21,8 +20,6 @@
     "typewriter-effect": "^2.13.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -43,7 +40,4 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
 }
